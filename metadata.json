@@ -1,0 +1,5 @@
+{
+  "name": "preSERV",
+  "description": "A high-end image generation tool that creates stylistic variations while strictly maintaining the identity and physical features of your reference subjects using Gemini's advanced vision and generation capabilities.",
+  "requestFramePermissions": []
+}
